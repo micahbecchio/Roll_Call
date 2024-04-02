@@ -17,8 +17,8 @@ python3 roll_call.py <list> <target directory>
 ```
 
 ## Dependencies
-- 'os': Interact with the operating system (file, directory operations).
-- 'sys': Access system-specific parameters and functions (arguments, exit).
+- ``os``: Interact with the operating system (file, directory operations).
+- ``sys``: Access system-specific parameters and functions (arguments, exit).
 
 <br><br><br><br>
 
